@@ -12,8 +12,3 @@ Main features
   1. Enhanced user experience, thanks to its design and ease of use
   2. No page refresh and fully dynamic (thanks to XML Request)
 
-Upcoming features 
-  1. multi-users handling where we will have students profile and teachers profile. 
-  2. instant messages. 
-  3. video upload for teachers, where students can view each one of them.
-
